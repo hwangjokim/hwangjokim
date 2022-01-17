@@ -1,4 +1,10 @@
 ### Hi there 👋
+<p>
+<img src="https://img.shields.io/badge/C Language-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+</p>
 ![Hwangdo's github stats](https://github-readme-stats.vercel.app/api?username=hwangjokim&show_icons=true)
 [![Hwangdo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangjokim&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hwangjokim)
 <!--
