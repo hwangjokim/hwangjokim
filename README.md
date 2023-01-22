@@ -7,7 +7,7 @@
 </p>
 
 
-- ⚡ Studying Algorithm, WEb, Android <br>
+- ⚡ Studying Algorithm, Spring Boot, Database
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hg7258">
 
 
