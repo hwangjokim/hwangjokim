@@ -1,8 +1,8 @@
 
 
 
-- ⚡ Studying Algorithm, Spring Boot, Database
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hg7258">
+- ⚡ SpringBoot
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hg7258">
 
 
 <!--img align='left' src="https://github-readme-stats.vercel.app/api?username=hwangjokim" height="170">
