@@ -4,6 +4,8 @@
 - ⚡ SpringBoot
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hg7258">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangjokim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--img align='left' src="https://github-readme-stats.vercel.app/api?username=hwangjokim" height="170">
 
